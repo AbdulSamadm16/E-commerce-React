@@ -3,7 +3,7 @@ import Shop from "./components/pages/Shop.jsx";
 import Home from "./components/pages/Home.jsx";
 import Cart from "./components/pages/Cart.jsx";
 import Wishlist from "./components/pages/Wishlist.jsx";
-import Navbar from "./components/pages/Navba.jsx";
+import Navbar from "./components/pages/Navbar.jsx";
 import Footer from "./components/pages/Footer.jsx";
 import About from "./components/pages/About.jsx";
 import Contact from "./components/pages/Contact.jsx";
