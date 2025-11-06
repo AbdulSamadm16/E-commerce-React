@@ -1,7 +1,9 @@
 import React from "react";
 import ProductGrid from "./ProductGrid";
-import Wishlist from "./Wishlist";
-export default function Home({ setPage, addToCart, addToWishlist }) {
+
+
+
+export default function Home({ addToCart, addToWishlist }) {
   return (
     <div>
       <div className="bg-light text-center py-5 mb-4">
