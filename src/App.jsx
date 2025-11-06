@@ -1,17 +1,17 @@
 import { useState } from "react";
-import Shop from "./components/pages/Shop";
-import Home from "./components/pages/Home";
-import Cart from "./components/pages/Cart";
-import Wishlist from "./components/pages/Wishlist";
-import Navbar from "./components/pages/Navbar";
-import Footer from "./components/pages/Footer";
-import About from "./components/pages/About";
-import Contact from "./components/pages/Contact";
-import Account from "./components/pages/Account";
-import Checkout from "./components/pages/Checkout";
-import Confirmation from "./components/pages/Confirmation";
-import AdminLogin from "./components/pages/AdminLogin";
-import Dashboard from "./components/pages/Dashboard";
+import Shop from "./components/pages/Shop.jsx";
+import Home from "./components/pages/Home.jsx";
+import Cart from "./components/pages/Cart.jsx";
+import Wishlist from "./components/pages/Wishlist.jsx";
+import Navbar from "./components/pages/Navba.jsx";
+import Footer from "./components/pages/Footer.jsx";
+import About from "./components/pages/About.jsx";
+import Contact from "./components/pages/Contact.jsx";
+import Account from "./components/pages/Account.jsx";
+import Checkout from "./components/pages/Checkout.jsx";
+import Confirmation from "./components/pages/Confirmation.jsx";
+import AdminLogin from "./components/pages/AdminLogin.jsx";
+import Dashboard from "./components/pages/Dashboard.jsx";
 
 function App() {
   const [page, setPage] = useState("home");
